@@ -1,0 +1,18 @@
+{
+  "name": "pixi_example",
+  "version": "0.0.0",
+  "authors": [
+    "Kyle Partridge <kyle.partridge@sendgrid.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "~2.2.8"
+  }
+}
